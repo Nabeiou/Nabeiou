@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nabeiou
 - 👀 I’m interested in music, languages and videogrames.
 - 🌱 I’m currently learning Japanese and Python programming.
-- 💞️ I’m looking to collaborate on videogames, musica and translation projects.
+- 💞️ I’m looking to collaborate on videogames, music and translation projects.
 - 📫 How to reach me: nabey.sg@gmail.com, naburuburu on ig or Nab Eco on fb.
 
 <!---
